@@ -105,6 +105,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1475商品折扣后的最�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "496下一个更大元素", "496下一个更大元素\496下一个更大元素.csproj", "{C6F29096-55A2-4DF3-89FF-A0B27846F06C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "503下一个更大元素 II", "503下一个更大元素 II\503下一个更大元素 II.csproj", "{AD5A31D6-0896-401B-845E-C19F84E59DA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "901股票价格跨度", "901股票价格跨度\901股票价格跨度.csproj", "{CC418A2F-7B40-4090-8BB2-7FCE5F8D005D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +319,14 @@ Global
 		{C6F29096-55A2-4DF3-89FF-A0B27846F06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6F29096-55A2-4DF3-89FF-A0B27846F06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6F29096-55A2-4DF3-89FF-A0B27846F06C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD5A31D6-0896-401B-845E-C19F84E59DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5A31D6-0896-401B-845E-C19F84E59DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5A31D6-0896-401B-845E-C19F84E59DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5A31D6-0896-401B-845E-C19F84E59DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC418A2F-7B40-4090-8BB2-7FCE5F8D005D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC418A2F-7B40-4090-8BB2-7FCE5F8D005D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC418A2F-7B40-4090-8BB2-7FCE5F8D005D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC418A2F-7B40-4090-8BB2-7FCE5F8D005D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
