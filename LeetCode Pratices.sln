@@ -109,6 +109,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "503下一个更大元素 II
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "901股票价格跨度", "901股票价格跨度\901股票价格跨度.csproj", "{CC418A2F-7B40-4090-8BB2-7FCE5F8D005D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "853车队", "853车队\853车队.csproj", "{60CB1DD8-9D5F-4DAE-8338-C4DD3B38168A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "200岛屿数量", "200岛屿数量\200岛屿数量.csproj", "{BCFE748C-7027-4474-92D5-F3E1ABF6B671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "695岛屿的最大面积", "695岛屿的最大面积\695岛屿的最大面积.csproj", "{9EE5A486-D2A3-494C-8CFE-42E69A6E7BB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面试题16.19.水域大小", "面试题16.19.水域大小\面试题16.19.水域大小.csproj", "{6BAB3EC8-08FF-4C5A-B853-A710E44C6BE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -327,6 +335,22 @@ Global
 		{CC418A2F-7B40-4090-8BB2-7FCE5F8D005D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC418A2F-7B40-4090-8BB2-7FCE5F8D005D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC418A2F-7B40-4090-8BB2-7FCE5F8D005D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60CB1DD8-9D5F-4DAE-8338-C4DD3B38168A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60CB1DD8-9D5F-4DAE-8338-C4DD3B38168A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60CB1DD8-9D5F-4DAE-8338-C4DD3B38168A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60CB1DD8-9D5F-4DAE-8338-C4DD3B38168A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCFE748C-7027-4474-92D5-F3E1ABF6B671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCFE748C-7027-4474-92D5-F3E1ABF6B671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCFE748C-7027-4474-92D5-F3E1ABF6B671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCFE748C-7027-4474-92D5-F3E1ABF6B671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE5A486-D2A3-494C-8CFE-42E69A6E7BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE5A486-D2A3-494C-8CFE-42E69A6E7BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE5A486-D2A3-494C-8CFE-42E69A6E7BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE5A486-D2A3-494C-8CFE-42E69A6E7BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BAB3EC8-08FF-4C5A-B853-A710E44C6BE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAB3EC8-08FF-4C5A-B853-A710E44C6BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAB3EC8-08FF-4C5A-B853-A710E44C6BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAB3EC8-08FF-4C5A-B853-A710E44C6BE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
