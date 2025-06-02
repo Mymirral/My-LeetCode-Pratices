@@ -117,6 +117,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "695岛屿的最大面积", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面试题16.19.水域大小", "面试题16.19.水域大小\面试题16.19.水域大小.csproj", "{6BAB3EC8-08FF-4C5A-B853-A710E44C6BE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCS02 完成一半题目", "LCS02 完成一半题目\LCS02 完成一半题目.csproj", "{3372459A-81AC-4494-BCCA-BC4E4DE7738E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCS03主题空间", "LCS03主题空间\LCS03主题空间.csproj", "{65B13EAB-1022-4CFB-8392-2B04E2AFB724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "463岛屿的周长", "463岛屿的周长\463岛屿的周长.csproj", "{303846C8-8300-4061-A8B3-654DA6BE40C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2658网格图中鱼的最大数目", "2658网格图中鱼的最大数目\2658网格图中鱼的最大数目.csproj", "{D39796FE-85D1-48EF-8548-7CB8B36CF405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1926迷宫中离入口最近的出口", "1926迷宫中离入口最近的出口\1926迷宫中离入口最近的出口.csproj", "{4A4460DB-F712-4010-AF36-5AF5DED093AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -351,6 +361,26 @@ Global
 		{6BAB3EC8-08FF-4C5A-B853-A710E44C6BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BAB3EC8-08FF-4C5A-B853-A710E44C6BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BAB3EC8-08FF-4C5A-B853-A710E44C6BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3372459A-81AC-4494-BCCA-BC4E4DE7738E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3372459A-81AC-4494-BCCA-BC4E4DE7738E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3372459A-81AC-4494-BCCA-BC4E4DE7738E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3372459A-81AC-4494-BCCA-BC4E4DE7738E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65B13EAB-1022-4CFB-8392-2B04E2AFB724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B13EAB-1022-4CFB-8392-2B04E2AFB724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B13EAB-1022-4CFB-8392-2B04E2AFB724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B13EAB-1022-4CFB-8392-2B04E2AFB724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{303846C8-8300-4061-A8B3-654DA6BE40C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303846C8-8300-4061-A8B3-654DA6BE40C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303846C8-8300-4061-A8B3-654DA6BE40C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303846C8-8300-4061-A8B3-654DA6BE40C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D39796FE-85D1-48EF-8548-7CB8B36CF405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39796FE-85D1-48EF-8548-7CB8B36CF405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39796FE-85D1-48EF-8548-7CB8B36CF405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39796FE-85D1-48EF-8548-7CB8B36CF405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A4460DB-F712-4010-AF36-5AF5DED093AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A4460DB-F712-4010-AF36-5AF5DED093AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A4460DB-F712-4010-AF36-5AF5DED093AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A4460DB-F712-4010-AF36-5AF5DED093AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
