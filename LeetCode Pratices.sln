@@ -145,6 +145,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "476数字的补数", "476�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "868二进制间距", "868二进制间距\868二进制间距.csproj", "{3B76A1CC-E077-44F5-BD8E-5791B56EBF51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "547省份数量", "547省份数量\547省份数量.csproj", "{043A37DE-5B91-474A-92B7-A9640579632C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1971寻找图中是否存在路径", "1971寻找图中是否存在路径\1971寻找图中是否存在路径.csproj", "{CE6044D1-B200-4C75-BEB4-4243F1C03FEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "841钥匙和房间", "841钥匙和房间\841钥匙和房间.csproj", "{FA3AB823-2D6F-4A42-B4C2-829CE3B63BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3243新增道路查询后的最短距离 I", "3243新增道路查询后的最短距离 I\3243新增道路查询后的最短距离 I.csproj", "{29BF9F45-5F22-41F7-BB74-83EA0E045C73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1311获取你好友已观看的视频", "1311获取你好友已观看的视频\1311获取你好友已观看的视频.csproj", "{FB4B8326-BED4-4DE4-A1E4-0DD8F9B54B50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42接雨水", "42接雨水\42接雨水.csproj", "{9422BBA1-22DD-4CB1-9F95-E0C8F2BE0818}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -435,6 +447,30 @@ Global
 		{3B76A1CC-E077-44F5-BD8E-5791B56EBF51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B76A1CC-E077-44F5-BD8E-5791B56EBF51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B76A1CC-E077-44F5-BD8E-5791B56EBF51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{043A37DE-5B91-474A-92B7-A9640579632C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043A37DE-5B91-474A-92B7-A9640579632C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043A37DE-5B91-474A-92B7-A9640579632C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043A37DE-5B91-474A-92B7-A9640579632C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6044D1-B200-4C75-BEB4-4243F1C03FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6044D1-B200-4C75-BEB4-4243F1C03FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6044D1-B200-4C75-BEB4-4243F1C03FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6044D1-B200-4C75-BEB4-4243F1C03FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA3AB823-2D6F-4A42-B4C2-829CE3B63BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3AB823-2D6F-4A42-B4C2-829CE3B63BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3AB823-2D6F-4A42-B4C2-829CE3B63BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3AB823-2D6F-4A42-B4C2-829CE3B63BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29BF9F45-5F22-41F7-BB74-83EA0E045C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29BF9F45-5F22-41F7-BB74-83EA0E045C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29BF9F45-5F22-41F7-BB74-83EA0E045C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29BF9F45-5F22-41F7-BB74-83EA0E045C73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB4B8326-BED4-4DE4-A1E4-0DD8F9B54B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4B8326-BED4-4DE4-A1E4-0DD8F9B54B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4B8326-BED4-4DE4-A1E4-0DD8F9B54B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4B8326-BED4-4DE4-A1E4-0DD8F9B54B50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9422BBA1-22DD-4CB1-9F95-E0C8F2BE0818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9422BBA1-22DD-4CB1-9F95-E0C8F2BE0818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9422BBA1-22DD-4CB1-9F95-E0C8F2BE0818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9422BBA1-22DD-4CB1-9F95-E0C8F2BE0818}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
