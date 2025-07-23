@@ -233,6 +233,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "101对称二叉树", "101�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "543二叉树的直径", "543二叉树的直径\543二叉树的直径.vcxproj", "{552F02AA-A1BC-42BD-AF15-2EBC053BF24D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "102二叉树的层序遍历", "102二叉树的层序遍历\102二叉树的层序遍历.vcxproj", "{B8F322F6-A14B-4DDD-9186-3A2D224F7FDA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "108将有序数组转换为二叉搜索树", "108将有序数组转换为二叉搜索树\108将有序数组转换为二叉搜索树.vcxproj", "{BA89F345-6E50-486E-8FBB-5BB0A650440D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1623,6 +1627,30 @@ Global
 		{552F02AA-A1BC-42BD-AF15-2EBC053BF24D}.Release|x64.Build.0 = Release|x64
 		{552F02AA-A1BC-42BD-AF15-2EBC053BF24D}.Release|x86.ActiveCfg = Release|Win32
 		{552F02AA-A1BC-42BD-AF15-2EBC053BF24D}.Release|x86.Build.0 = Release|Win32
+		{B8F322F6-A14B-4DDD-9186-3A2D224F7FDA}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{B8F322F6-A14B-4DDD-9186-3A2D224F7FDA}.Debug|Any CPU.Build.0 = Debug|x64
+		{B8F322F6-A14B-4DDD-9186-3A2D224F7FDA}.Debug|x64.ActiveCfg = Debug|x64
+		{B8F322F6-A14B-4DDD-9186-3A2D224F7FDA}.Debug|x64.Build.0 = Debug|x64
+		{B8F322F6-A14B-4DDD-9186-3A2D224F7FDA}.Debug|x86.ActiveCfg = Debug|Win32
+		{B8F322F6-A14B-4DDD-9186-3A2D224F7FDA}.Debug|x86.Build.0 = Debug|Win32
+		{B8F322F6-A14B-4DDD-9186-3A2D224F7FDA}.Release|Any CPU.ActiveCfg = Release|x64
+		{B8F322F6-A14B-4DDD-9186-3A2D224F7FDA}.Release|Any CPU.Build.0 = Release|x64
+		{B8F322F6-A14B-4DDD-9186-3A2D224F7FDA}.Release|x64.ActiveCfg = Release|x64
+		{B8F322F6-A14B-4DDD-9186-3A2D224F7FDA}.Release|x64.Build.0 = Release|x64
+		{B8F322F6-A14B-4DDD-9186-3A2D224F7FDA}.Release|x86.ActiveCfg = Release|Win32
+		{B8F322F6-A14B-4DDD-9186-3A2D224F7FDA}.Release|x86.Build.0 = Release|Win32
+		{BA89F345-6E50-486E-8FBB-5BB0A650440D}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{BA89F345-6E50-486E-8FBB-5BB0A650440D}.Debug|Any CPU.Build.0 = Debug|x64
+		{BA89F345-6E50-486E-8FBB-5BB0A650440D}.Debug|x64.ActiveCfg = Debug|x64
+		{BA89F345-6E50-486E-8FBB-5BB0A650440D}.Debug|x64.Build.0 = Debug|x64
+		{BA89F345-6E50-486E-8FBB-5BB0A650440D}.Debug|x86.ActiveCfg = Debug|Win32
+		{BA89F345-6E50-486E-8FBB-5BB0A650440D}.Debug|x86.Build.0 = Debug|Win32
+		{BA89F345-6E50-486E-8FBB-5BB0A650440D}.Release|Any CPU.ActiveCfg = Release|x64
+		{BA89F345-6E50-486E-8FBB-5BB0A650440D}.Release|Any CPU.Build.0 = Release|x64
+		{BA89F345-6E50-486E-8FBB-5BB0A650440D}.Release|x64.ActiveCfg = Release|x64
+		{BA89F345-6E50-486E-8FBB-5BB0A650440D}.Release|x64.Build.0 = Release|x64
+		{BA89F345-6E50-486E-8FBB-5BB0A650440D}.Release|x86.ActiveCfg = Release|Win32
+		{BA89F345-6E50-486E-8FBB-5BB0A650440D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
