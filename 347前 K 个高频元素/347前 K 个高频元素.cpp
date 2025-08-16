@@ -34,7 +34,6 @@ public:
         if (left >= right) return;
 
         int pivot = map[nums[right]];
-
         int index = left;
         
         for (int i = left; i < right; i++)
