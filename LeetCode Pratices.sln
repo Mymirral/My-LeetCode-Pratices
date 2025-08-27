@@ -333,6 +333,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "62不同路径", "62不同�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "64最小路径和", "64最小路径和\64最小路径和.vcxproj", "{FDEAC38E-DA62-40AB-A249-6D87DD117233}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5最长回文子串 c++", "5最长回文子串 c++\5最长回文子串 c++.vcxproj", "{F67D6A1F-56DC-4CD5-8144-7F7F27F7761E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2323,6 +2325,18 @@ Global
 		{FDEAC38E-DA62-40AB-A249-6D87DD117233}.Release|x64.Build.0 = Release|x64
 		{FDEAC38E-DA62-40AB-A249-6D87DD117233}.Release|x86.ActiveCfg = Release|Win32
 		{FDEAC38E-DA62-40AB-A249-6D87DD117233}.Release|x86.Build.0 = Release|Win32
+		{F67D6A1F-56DC-4CD5-8144-7F7F27F7761E}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{F67D6A1F-56DC-4CD5-8144-7F7F27F7761E}.Debug|Any CPU.Build.0 = Debug|x64
+		{F67D6A1F-56DC-4CD5-8144-7F7F27F7761E}.Debug|x64.ActiveCfg = Debug|x64
+		{F67D6A1F-56DC-4CD5-8144-7F7F27F7761E}.Debug|x64.Build.0 = Debug|x64
+		{F67D6A1F-56DC-4CD5-8144-7F7F27F7761E}.Debug|x86.ActiveCfg = Debug|Win32
+		{F67D6A1F-56DC-4CD5-8144-7F7F27F7761E}.Debug|x86.Build.0 = Debug|Win32
+		{F67D6A1F-56DC-4CD5-8144-7F7F27F7761E}.Release|Any CPU.ActiveCfg = Release|x64
+		{F67D6A1F-56DC-4CD5-8144-7F7F27F7761E}.Release|Any CPU.Build.0 = Release|x64
+		{F67D6A1F-56DC-4CD5-8144-7F7F27F7761E}.Release|x64.ActiveCfg = Release|x64
+		{F67D6A1F-56DC-4CD5-8144-7F7F27F7761E}.Release|x64.Build.0 = Release|x64
+		{F67D6A1F-56DC-4CD5-8144-7F7F27F7761E}.Release|x86.ActiveCfg = Release|Win32
+		{F67D6A1F-56DC-4CD5-8144-7F7F27F7761E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
